@@ -13,7 +13,8 @@ p {
   padding: 10%;
   margin: 20px;
 }
-h2 {
+h2,
+h3 {
   color: burlywood;
   background-color: steelblue;
   font-family: 'Courier New', Courier, monospace;
